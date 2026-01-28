@@ -17,14 +17,17 @@ const techStack = [
   {
     category: "Frontend Development",
     items: [
-      { name: "React", icon: Atom },
+      { name: "React.js", icon: Atom },
       { name: "Next.js", icon: Globe },
       { name: "Angular", icon: Code2 },
       { name: "TypeScript", icon: Code2 },
       { name: "jQuery", icon: Code2 },
       { name: "EJS", icon: Code2 },
-      { name: "Vite", icon: Code2 },
+      { name: "Vite.js", icon: Code2 },
+      { name: "Vue.js", icon: Code2 },
       { name: "Axios", icon: Code2 },
+      { name: "Tailwind CSS", icon: CodeSquare },
+      { name: "Bootstrap", icon: CodeSquare },
     ],
   },
   {
